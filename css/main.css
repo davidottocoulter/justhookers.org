@@ -156,8 +156,14 @@ nav a:hover {
 
 .hookerbox {
     background-color: #000;
-    padding: 40px;
+    bottom: 0;
+    box-sizing: border-box;
+    left: 0;
+    position: absolute;
+    padding: 10% 0;
+    right: 0;
     text-align: center;
+    top: 0;
     width: 100%;
 }
 
@@ -170,6 +176,7 @@ nav a:hover {
 
     color: #31d631;
     margin: 40px;
+    text-align: center;
     text-transform: uppercase;
 }
 
