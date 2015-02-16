@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    David Coulter -- Developer/Dumbass -- davidocoulter
 
 # THANKS
 
-    <name>
+    The Koch Brothers
+    Are
+    Hookers
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery
