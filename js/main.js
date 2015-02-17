@@ -6,4 +6,4 @@ function hookercannon(){
     window.location = urls[Math.floor(urls.length*Math.random())];
 }
 
-var temp = setInterval("hookercannon()", 3000);
+var temp = setInterval("hookercannon()", 5000);
